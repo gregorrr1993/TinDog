@@ -1,0 +1,2 @@
+# TinDog
+Simple website with bootstrap. Created during Udemy course The Complete 2022 Web Development Bootcamp. Site is fully adaptable to all sizes of screen. Bootstrap classes and css styling was added via challenges on previously downloaded HTML code. First each section was shown as it should look like with hints as used color, font, size or Font Avesome icon. Then was my part to update code to provide desired look and functionality like mouse hover or change of layout on smaller screens.
